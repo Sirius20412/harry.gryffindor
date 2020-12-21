@@ -16,7 +16,7 @@ body {
 }
 
 main {
-    min-height: 68vh;
+    min-height: 30vh;
     padding: 30px;
     max-width: 1240px;
     margin: 0 auto;
@@ -24,7 +24,7 @@ main {
 
 header, footer {
     background-color: #fff;
-    padding: 30px;
+    padding: 40px;
     text-align: center;
     color: var(--dark-blue);
 }
@@ -70,14 +70,14 @@ form input {
 
 footer {
     color: #555;
-    font-size: 4rem;
+    font-size: 1.5rem;
     padding: 20px;
 }
 
 footer blockquote {
     font-family: cursive;
     letter-spacing: 1.3px;
-    font-size: 3rem;
+    font-size: 1.3rem;
 }
 
 footer a {
