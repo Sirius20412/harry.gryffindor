@@ -68,29 +68,6 @@ form input {
     border-radius: 3px;
 }
 
-button {
-    margin: 0;
-    background: var(--dark-blue);
-    color: #fff;
-    height: 42px;
-    width: 25%;
-    position: relative;
-    padding: 0;
-    top: -1px;
-    border-radius: 3px;
-    font-size: 14px;
-    border: 1px solid var(--dark-blue);
-    font-weight: bold;
-    font-family: "Open Sans",sans-serif;
-    cursor: pointer;
-}
-
-button svg {
-    width: 18px;
-    vertical-align: middle;
-    margin-left: 5px;
-}
-
 footer {
     color: #555;
     font-size: 4rem;
